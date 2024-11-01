@@ -1,0 +1,20 @@
+
+.odd:nth-child(odd){
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd:nth-child(3){
+    font-size: 24px;
+}
+
+#blueElement{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#greenElement{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
