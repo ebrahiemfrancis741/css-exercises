@@ -1,5 +1,5 @@
 
-.odd:nth-child(odd){
+.odd{
     background-color: #ffb6c1;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
