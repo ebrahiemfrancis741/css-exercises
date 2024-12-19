@@ -17,6 +17,20 @@
 
 .header {
   background-color: #393f4d;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+}
+
+.header > .logo{
+  text-align: start;
+}
+
+.menu > ul{
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+  list-style: none;
 }
 
 .menu ul,
